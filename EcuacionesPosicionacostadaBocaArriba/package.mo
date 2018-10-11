@@ -1,0 +1,4 @@
+within ColumnaPosicionAcostadaBocaarriba;
+
+package EcuacionesPosicionacostadaBocaArriba
+end EcuacionesPosicionacostadaBocaArriba;
